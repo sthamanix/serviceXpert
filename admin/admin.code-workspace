@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../applicant"
+		},
+		{
+			"path": "../bootstrap"
+		},
+		{
+			"path": "../build"
+		},
+		{
+			"path": "../dist"
+		},
+		{
+			"path": "../documentation"
+		},
+		{
+			"path": "../include"
+		},
+		{
+			"path": "../pages"
+		},
+		{
+			"path": "../plugins"
+		},
+		{
+			"path": "../theme"
+		}
+	]
+}
